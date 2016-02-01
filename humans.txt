@@ -1,0 +1,21 @@
+/* TEAM */
+Twitter: juicymi_
+Just some kidz messing about
+Social media and marketing: Kid 1
+CTO: Kid 2
+CFO: Kid 3
+
+
+/* THANKS */
+Black tie for the awesome template: http://blacktie.co/2015/08/appi-app-landing-page/
+Royalty free stock images thanks to: https://unsplash.com/
+    Thaddaeus Lim - city shot
+    Tyler Shaw - oranges
+    Alejandro Escamilla - work
+
+
+/* SITE */
+Last update: 2016/02/01
+Standards: HTML5, CSS3,..
+Components: Modernizr, jQuery, bootstrap, Respond.js
+Software: Atom [editor], paint.net [photo editing]
